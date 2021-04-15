@@ -227,7 +227,8 @@ footer{
 
   .box p {
     text-align: center;
-    width: 90%;
+    width: 85%;
+    margin-left: 18px;
   }
 
 }
